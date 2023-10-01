@@ -1,8 +1,8 @@
 # Katerina Artavanis-Tsakonas lab
 Our laboratory is dedicated to understanding the cell biology of Plasmodium falciparum.
 
-We are particularly interested in the pathways, evolution, and trafficking of this parasite - with a special focus on the ubiquitin pathway.
+Parasites have adapted intricate mechanisms of avoiding host immune responses, limiting tissue damage, and modulating their immediate surrounding to support their presence.
 
-We have identified and characterized several de-ubiquitinated proteins in malaria, such as Uch37 and UchL3. De-ubiquitination is a process that removes ubiquitin, a small protein that can be attached to other proteins to regulate their function. We are investigating how de-ubiquitination functions in malaria and how it is regulated.
+We aim to understand how they adapt themselves to their environment to not only uncover novel therapeutic targets, but also to learn about the host tissues they colonise.
 
-Our research aims to provide new insights into the biology of Plasmodium falciparum that can be used to develop new and improved strategies for malaria control and elimination.
+We have a particular interest in understanding how the malaria parasite, Plasmodium falciparum, uses its ubiquitin-proteasome system to sustain development and transmission within human erythrocytes.
